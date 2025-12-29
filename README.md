@@ -21,4 +21,5 @@ This project analyzes e-commerce sales data using Power BI to uncover key busine
 - Excel/CSV
 - 
 - ## DASHBOARD PREVIEW 
-- ![WhatsApp Image 2025-12-29 at 10 32 51 PM (1)](https://github.com/user-attachments/assets/6766af9b-9593-434d-adda-da556db5e9f0)
+- ![Dashboard overview jpg](https://github.com/user-attachments/assets/50fc5005-eaac-41a7-b0df-2eea1a666905)
+
